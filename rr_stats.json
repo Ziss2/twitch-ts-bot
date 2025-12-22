@@ -1,0 +1,54 @@
+{
+  ":kr4v4s": {
+    "survive": 8,
+    "dead": 3
+  },
+  ":chawpang": {
+    "survive": 1,
+    "dead": 2
+  },
+  "chawpang": {
+    "survive": 2,
+    "dead": 0
+  },
+  "bora_ice": {
+    "survive": 0,
+    "dead": 1
+  },
+  "AronOjisans": {
+    "survive": 19,
+    "dead": 1
+  },
+  "aut0fal7m": {
+    "survive": 2,
+    "dead": 0
+  },
+  ":bora_ice": {
+    "survive": 2,
+    "dead": 0
+  },
+  ":lizpichu": {
+    "survive": 1,
+    "dead": 0
+  },
+  "lizpichu": {
+    "survive": 2,
+    "dead": 0
+  },
+  "aronojisans": {
+    "survive": 1,
+    "dead": 1
+  },
+  "kr4v4s": {
+    "survive": 1,
+    "dead": 0
+  },
+  "inoosai": {
+    "survive": 1,
+    "dead": 0
+  },
+  "chakeawhehe": {
+    "survive": 2,
+    "dead": 0
+  }
+}
