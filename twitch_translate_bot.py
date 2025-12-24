@@ -11,7 +11,7 @@ from googletrans import Translator
 # CONFIG
 # =========================
 BOT_USERNAME = "aut0fal7m"
-OAUTH_TOKEN = "7uensm2pcncij2478zjn85st2gzt3x"  # ❗ ใส่ token จริง (ไม่มี oauth:)
+OAUTH_TOKEN = ""  # ❗ ใส่ token จริง (ไม่มี oauth:)
 CHANNEL_NAME = "chakeawhehe"
 
 RR_COOLDOWN = 20
@@ -257,3 +257,4 @@ while True:
         import traceback
         traceback.print_exc()
         time.sleep(5)
+
